@@ -8,9 +8,9 @@ import SidebarHorizontal from './SidebarHorizontal';
 const MainContent = () => {
   return (
     
-          <main className="col px-md-4 offset-lg-2">
+          <main className="col px-md-4 offset-lg-3">
             <Header />
-               <SidebarHorizontal /> {/* 👈 Place horizontal icon bar here for md and below */}
+               <SidebarHorizontal /> 
             <Form />
             <Card />
           </main>

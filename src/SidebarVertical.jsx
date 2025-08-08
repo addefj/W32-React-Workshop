@@ -2,7 +2,7 @@ import React from 'react';
 
 const SidebarVertical = () => {
   return (
-    <nav className="col-lg-2 d-none d-lg-block bg-white sidebar border-end vh-100 position-fixed">
+    <nav className="col-lg-3 d-none d-lg-block bg-white sidebar border-end vh-100 position-fixed">
       <div className="d-flex flex-column h-100 p-3">
         <div className="flex-grow-1 w-100">
           <h4 className="mb-4">Menu</h4>
