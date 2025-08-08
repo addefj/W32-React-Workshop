@@ -1,5 +1,5 @@
 import React from "react";
-import Sidebar from "./Sidebar";
+import SidebarVertical from './SidebarVertical';
 import MainContent from "./MainContent";
 
 const App = () => {
@@ -7,7 +7,7 @@ const App = () => {
     <div className="bg-light">
       <div className="container-fluid">
         <div className="row">
-          <Sidebar />
+          <SidebarVertical />
           <MainContent />
         </div>
       </div>
