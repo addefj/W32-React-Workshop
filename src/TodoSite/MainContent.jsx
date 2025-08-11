@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from './Header'
-import Form from './Form'
-import Card from './Card'
+import Form from './TodoForm'
+import Card from './TodoCard'
 import SidebarHorizontal from './SidebarHorizontal';
 
 
